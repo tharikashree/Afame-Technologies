@@ -18,19 +18,19 @@ This repository contains the complete work done as part of my **Data Analyst Int
 
 ## 📂 Folder Structure
 
-Afame-Technologies/
-│
-├── HR_Data_Analysis/
-│ ├── HR_Data_Analysis.ipynb
-│ ├── HR Data.csv
-│ └── README.md
-│
-├── Sales_Data_Analysis/
-│ ├── Sales_Data_Analysis.ipynb
-│ ├── Sales Data.csv
-│ └── README.md
-│
-└── README.md
+    Afame-Technologies/
+    │
+    ├── HR_Data_Analysis/
+    │ ├── HR_Data_Analysis.ipynb
+    │ ├── HR Data.csv
+    │ └── README.md
+    │
+    ├── Sales_Data_Analysis/
+    │ ├── Sales_Data_Analysis.ipynb
+    │ ├── Sales Data.csv
+    │ └── README.md
+    │
+    └── README.md
 
 ## 🛠️ Tools Used
 
